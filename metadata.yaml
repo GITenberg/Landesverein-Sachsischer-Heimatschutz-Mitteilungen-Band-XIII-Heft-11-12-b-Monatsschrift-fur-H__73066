@@ -1,5 +1,8 @@
 _repo: Landesverein-Sachsischer-Heimatschutz-Mitteilungen-Band-XIII-Heft-11-12-b-Monatsschrift-fur-H__73066
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73066-h/images/cover.jpg
 creator:
   editor:
     agent_name: Landesverein Sächsischer Heimatschutz
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/53108
     wikipedia: https://de.wikipedia.org/wiki/Landesverein_S%C3%A4chsischer_Heimatschutz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73066#Landesverein-Sachsischer-Heimatschutz-Mitteilungen-Band-XIII-Heft-11-12-b-Monatsschrift-fur-H_
 gutenberg_issued: '2024-02-28'
 gutenberg_type: Text
 identifiers:
